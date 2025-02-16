@@ -1,0 +1,5 @@
+{
+    "Makefile": "📜 Définit les tâches à exécuter (compilation, construction, etc.).",
+    "build.sh": "🔧 Script shell pour exécuter les commandes définies dans le Makefile.",
+    "package.json": "📦 Contient les métadonnées du projet et les dépendances nécessaires."
+  }

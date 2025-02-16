@@ -1,0 +1,39 @@
+{
+    "UTM": {
+      "identifiant": "utm_unique_id_54321",
+      "cvnu": "unique_id_12345",
+      "tache": "📝 Développement d'une application web",
+      "duree": "40 heures",
+      "taux_progression": "75%",
+      "valeur": "2000€"
+    },
+    "contrat_intelligent": {
+      "fonctions": [
+        "📄 Créer des UTM",
+        "✏️ Modifier des UTM existants",
+        "🔍 Consulter les UTM",
+        "💰 Calculer la valeur des UTM",
+        "🔗 Lier les UTM aux CVNU",
+        "📈 Suivre la monétisation du temps de travail"
+      ]
+    },
+    "interface_utilisateur": {
+      "fichiers": [
+        "utm.html",
+        "utm.js",
+        "utm.css"
+      ],
+      "fonctionnalites": [
+        "🛠️ Créer et suivre des UTM",
+        "📊 Afficher les informations sur les tâches",
+        "⏳ Suivre la durée et le taux de progression",
+        "💵 Calculer la valeur des UTM"
+      ]
+    },
+    "avantages_IA": {
+      "analyse_competences": "🔍 L'IA analyse les compétences pour identifier points forts et opportunités.",
+      "recommandations_personnalisees": "📈 L'IA recommande des formations et projets pour le développement des compétences.",
+      "matching_competences_opportunites": "🤝 L'IA met en relation utilisateurs et employeurs selon les compétences.",
+      "calcul_valeur_utm": "⚖️ L'IA affine le calcul de la valeur des UTM selon divers facteurs."
+    }
+  }
