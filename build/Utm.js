@@ -29,7 +29,7 @@ class UTM {
 
 // Exemple d'utilisation
 
-const utilisateurHumain = "Jean Dupont";
+const utilisateurHumain = "Mickael_Celcius";
 const utilisateurIA = "Jarvis";
 
 const utm1 = new UTM(utilisateurHumain, "Rédaction d'article", 2, 8, 6);
